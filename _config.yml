@@ -105,4 +105,4 @@ theme: landscape
 deploy:
     type: git
     repo: https://github.com/nepenthe11/nepenthe11.github.io.git
-    branch: master
+    branch: main
